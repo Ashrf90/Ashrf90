@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** Classical software development and Post-Quantum Cryptography for Embedded Systems**
 
-- 👯 I’m looking to collaborate on **classical and quantum software development**
+- 👯 I’m looking to collaborate on **classical and quantum software development for EVs infrastructure**
 
 - 📫 How to reach me **achrefouerfelli@gmail.com**
 
