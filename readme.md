@@ -2,12 +2,16 @@
 <h3 align="center">A PhD. Student in physics, junior Fullstack Java-Angular developer and quantum cryptography enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrf90&label=Profile%20views&color=0e75b6&style=flat" alt="ashrf90" /> </p>
+- 🔭 I’m currently working on **Entanglement of electrons in metallic nanoparticles having a radii at the quantum limit**
 
 - 🌱 I’m currently learning ** Classical software development and Post-Quantum Cryptography for Embedded Systems**
 
 - 👯 I’m looking to collaborate on **classical and quantum software development for EVs infrastructure**
 
 - 📫 How to reach me **achrefouerfelli@gmail.com**
+
+- 📄 Know about my experiences [I have a valuable experience in customer support](I have a valuable experience in customer support)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
