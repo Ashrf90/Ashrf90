@@ -25,9 +25,11 @@
 <a href="https://qiskit.org/" target="_blank" rel="noreferrer"><img width="40" height="40" alt="Qiskit-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/512px-Qiskit-Logo.svg.png"></a>
 </p>
 
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashrf90&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashrf90&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashrf90&theme=solarized_dark)
+-->
 
 
 
