@@ -10,9 +10,6 @@
 
 - 📫 How to reach me **achrefouerfelli@gmail.com**
 
-- 📄 Know about my experiences [I have a valuable experience in customer support](I have a valuable experience in customer support)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashrf90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrf90" height="30" width="40" /></a>
