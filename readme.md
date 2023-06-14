@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashraf Ouerfelli</h1>
-<h3 align="center">A PhD. Student in physics and a Junior Fullstack Java-Angular developer</h3>
+<h3 align="center">A PhD. Student in physics, junior Fullstack Java-Angular developer and quantum cryptography enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrf90&label=Profile%20views&color=0e75b6&style=flat" alt="ashrf90" /> </p>
 
