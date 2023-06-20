@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrf90&label=Profile%20views&color=0e75b6&style=flat" alt="ashrf90" /> </p>
 - 🌱 I’m currently learning ** Classical software development and Post-Quantum Cryptography for Embedded Systems**
 
-- 👯 I’m looking to collaborate on **classical and quantum software development for EVs infrastructure**
+- 👯 I’m looking to collaborate on **classical and quantum software development**
 
 - 📫 How to reach me **achrefouerfelli@gmail.com**
 
