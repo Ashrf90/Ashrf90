@@ -2,7 +2,7 @@
 <h3 align="center">A junior Fullstack Java-Angular developer and quantum computing enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrf90&label=Profile%20views&color=0e75b6&style=flat" alt="ashrf90" /> </p>
-- 🌱 I’m currently learning ** Classical software development and Post-Quantum Cryptography for Embedded Systems**
+- 🌱 I’m currently learning ** Classical software development and quantum computing fundamentals**
 
 - 👯 I’m looking to collaborate on **classical and quantum software development**
 
